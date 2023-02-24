@@ -1,2 +1,1 @@
-# XTR
-XTR
+# LYX
